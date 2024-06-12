@@ -1,3 +1,2 @@
-Flask
-locust
 gunicorn
+Flask
